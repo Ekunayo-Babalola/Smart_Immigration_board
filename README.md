@@ -11,15 +11,11 @@ Screenshots of PowerBI dashboard created is attached.
 # Project Goals
 The primary goals of this project are:
 
-## Study Permit Approval Trends: Analyze and visualize the trends in study permit approvals over the specified period.
-
-## Geographical Distribution: Explore the geographical distribution of students by country of origin and the province in which they pursue their studies.
-
-## Gender and Diversity Analysis: Investigate the gender and other diversity-related aspects among study permit holders.
-
-## Educational Level Analysis: Examine the distribution of study permit approvals based on the educational level of the applicants.
-
-## Factors Affecting Approvals: Identify and analyze factors that may contribute to the approval or rejection of study permit applications.
+Study Permit Approval Trends: Analyze and visualize the trends in study permit approvals over the specified period.
+Geographical Distribution: Explore the geographical distribution of students by country of origin and the province in which they pursue their studies.
+Gender and Diversity Analysis: Investigate the gender and other diversity-related aspects among study permit holders.
+Educational Level Analysis: Examine the distribution of study permit approvals based on the educational level of the applicants.
+Factors Affecting Approvals: Identify and analyze factors that may contribute to the approval or rejection of study permit applications.
 
 # Data Source
 The data for this analysis is sourced from the IRCC website, specifically focusing on study permit approvals. The dataset spans from 2015 to August 2023 and includes information such as country of origin, province of study, gender, educational level, and application status.
