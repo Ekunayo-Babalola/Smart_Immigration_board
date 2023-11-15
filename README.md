@@ -7,6 +7,8 @@ Welcome to the Study Permit Analysis project, a comprehensive data analysis and 
 
 # Screenshot of PowerBI
 Screenshots of PowerBI dashboard created is attached.
+![a1](https://github.com/Ekunayo-Babalola/Smart_Immigration_board/assets/90660910/8ddf323b-ce74-4ba0-9958-fa23fd5ea7ec)
+![a2](https://github.com/Ekunayo-Babalola/Smart_Immigration_board/assets/90660910/5094b9b6-5ce5-4305-8892-fee6a722d3ab)
 
 # Project Goals
 The primary goals of this project are:
@@ -38,3 +40,4 @@ Acknowledgments
 Special thanks to the IRCC for providing the dataset and to the open-source community for contributing valuable tools and resources.
 
 Happy Analyzing! 📊✨
+
